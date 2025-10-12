@@ -6,4 +6,3 @@ im currently learning the basics of shell and Linux and the core concepts in cyb
 
 i like cars
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5910318" style='border:none;'></iframe>
