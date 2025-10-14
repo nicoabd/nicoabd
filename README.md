@@ -4,5 +4,7 @@ im at the very start of my cybersecurity journey, learning everything I can onli
 
 im currently learning the basics of shell and Linux and the core concepts in cybersecurity
 
+my thm profile : https://tryhackme.com/p/nicoabd
+
 i like cars
 
